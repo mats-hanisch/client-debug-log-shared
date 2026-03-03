@@ -8,4 +8,4 @@ Install the package via npm:
 
 `npm install client-debug-log-shared`
 
-To the [npm site]() of client-debug-log-shared
+Check out the [npm page](https://www.npmjs.com/package/client-debug-log-shared) of client-debug-log-shared
