@@ -1,4 +1,3 @@
 
-export * from './LogLevel';
-export * from './LogEntry';
+export * from './dtos';
 export * from './socket.io';
