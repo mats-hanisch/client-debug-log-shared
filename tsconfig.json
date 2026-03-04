@@ -1,26 +1,20 @@
 {
   "compilerOptions": {
-    /* ================================
-       Language and Environment
-    ================================= */
+    // language and environment
     "target": "ES2022",
     "lib": ["ES2022"],
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "types": [],
     
-    /* ================================
-       Emit
-    ================================= */
+    // emit options
     "declaration": true,
     "declarationMap": true,
     "sourceMap": true,
     "emitDeclarationOnly": false,
     "noEmit": true,
-
-    /* ================================
-       Strictness
-    ================================= */
+    
+    // strict options
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -29,10 +23,6 @@
     "strictPropertyInitialization": true,
     "noImplicitThis": true,
     "useUnknownInCatchVariables": true,
-
-    /* ================================
-       Extra Strictness (Highly Recommended)
-    ================================= */
     "noUncheckedIndexedAccess": true,
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
@@ -41,26 +31,20 @@
     "alwaysStrict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-
-    /* ================================
-       Module Interop
-    ================================= */
+    
+    // module interop
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
     "verbatimModuleSyntax": true,
-
-    /* ================================
-       Project Structure
-    ================================= */
+    
+    // project structure
     "rootDir": "src",
     "baseUrl": ".",
     "paths": {},
     "resolveJsonModule": true,
-
-    /* ================================
-       Performance / Safety
-    ================================= */
+    
+    // additional safety flags
     "skipLibCheck": false,
     "forceConsistentCasingInFileNames": true
   },
