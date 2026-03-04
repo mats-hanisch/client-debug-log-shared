@@ -1,6 +1,6 @@
 {
   "name": "client-debug-log-shared",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Shared enums and TypeScript types for client-debug-log and client-debug-log-client",
   "license": "MIT",
   "type": "module",
